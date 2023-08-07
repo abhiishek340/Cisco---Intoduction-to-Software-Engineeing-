@@ -6,12 +6,3 @@
 #Cisco-Task-4
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Cisco</title>
-</head>
-<body>
-    <img src="cisco.png" alt="Image Description">
-</body>
-</html>
